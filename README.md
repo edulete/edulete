@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @edulete
-- 👀 I’m interested in learning and explore new things.
-- 🌱 I’m currently learning Web development.
+- 👋 Hi, I’m Edulete Technologies LLP
+- 👀 We invites students to Play interesting quizes and Earn some rewards.
+- 🌱 This is for JEE mains, NEET, SSC, other government exams aspirants.
 - 💞️ I’m looking to collaborate on People who are currently studying.
-- 📫 you can reach me by mail us at admin@edulete.in
+- 📫 you can reach by mail us at admin@edulete.in
 
 <!---
 edulete/edulete is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
